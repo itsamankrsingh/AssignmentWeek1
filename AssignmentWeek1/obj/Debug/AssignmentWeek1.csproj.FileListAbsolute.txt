@@ -1,0 +1,8 @@
+D:\Secure Self Training\C#\AssignmentWeek1\AssignmentWeek1\bin\Debug\AssignmentWeek1.exe.config
+D:\Secure Self Training\C#\AssignmentWeek1\AssignmentWeek1\bin\Debug\AssignmentWeek1.exe
+D:\Secure Self Training\C#\AssignmentWeek1\AssignmentWeek1\bin\Debug\AssignmentWeek1.pdb
+D:\Secure Self Training\C#\AssignmentWeek1\AssignmentWeek1\obj\Debug\AssignmentWeek1.csproj.AssemblyReference.cache
+D:\Secure Self Training\C#\AssignmentWeek1\AssignmentWeek1\obj\Debug\AssignmentWeek1.csproj.SuggestedBindingRedirects.cache
+D:\Secure Self Training\C#\AssignmentWeek1\AssignmentWeek1\obj\Debug\AssignmentWeek1.csproj.CoreCompileInputs.cache
+D:\Secure Self Training\C#\AssignmentWeek1\AssignmentWeek1\obj\Debug\AssignmentWeek1.exe
+D:\Secure Self Training\C#\AssignmentWeek1\AssignmentWeek1\obj\Debug\AssignmentWeek1.pdb
